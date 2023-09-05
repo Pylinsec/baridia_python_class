@@ -2,3 +2,4 @@ git init  enter
 git add .  enter
 git commit -m 'message'
 git push
+git clone url
